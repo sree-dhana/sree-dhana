@@ -13,7 +13,7 @@
   </defs>
   <text class="n" text-anchor="middle" x="310" y="72">
     <tspan opacity="0">&#x1D479; <animate attributeName="opacity" values="0;1" begin="0s"    dur="0.35s" fill="freeze"/></tspan>
-    <tspan opacity="0">&#x1D47A;<animate attributeName="opacity" values="0;1" begin="0.2s"  dur="0.35s" fill="freeze"/></tspan>
+    <tspan opacity="0" dx="18">&#x1D47A;<animate attributeName="opacity" values="0;1" begin="0.2s"  dur="0.35s" fill="freeze"/></tspan>
     <tspan opacity="0">&#x1D479;<animate attributeName="opacity" values="0;1" begin="0.35s" dur="0.35s" fill="freeze"/></tspan>
     <tspan opacity="0">&#x1D46C;<animate attributeName="opacity" values="0;1" begin="0.5s"  dur="0.35s" fill="freeze"/></tspan>
     <tspan opacity="0">&#x1D46C;<animate attributeName="opacity" values="0;1" begin="0.65s" dur="0.35s" fill="freeze"/></tspan>
