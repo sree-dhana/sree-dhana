@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 90" width="620" height="90">
+  <defs>
+    <style>
+      .n {
+        font-family: Georgia, 'Times New Roman', serif;
+        font-size: 64px;
+        fill: #1a2a3a;
+      }
+      @media (prefers-color-scheme: dark) {
+        .n { fill: #ffffff; }
+      }
+    </style>
+  </defs>
+  <text class="n" text-anchor="middle" x="310" y="72">
+    <tspan opacity="0">&#x1D479; <animate attributeName="opacity" values="0;1" begin="0s"    dur="0.35s" fill="freeze"/></tspan>
+    <tspan opacity="0">&#x1D47A;<animate attributeName="opacity" values="0;1" begin="0.2s"  dur="0.35s" fill="freeze"/></tspan>
+    <tspan opacity="0">&#x1D479;<animate attributeName="opacity" values="0;1" begin="0.35s" dur="0.35s" fill="freeze"/></tspan>
+    <tspan opacity="0">&#x1D46C;<animate attributeName="opacity" values="0;1" begin="0.5s"  dur="0.35s" fill="freeze"/></tspan>
+    <tspan opacity="0">&#x1D46C;<animate attributeName="opacity" values="0;1" begin="0.65s" dur="0.35s" fill="freeze"/></tspan>
+    <tspan opacity="0">&#x1D46B;<animate attributeName="opacity" values="0;1" begin="0.8s"  dur="0.35s" fill="freeze"/></tspan>
+    <tspan opacity="0">&#x1D46F;<animate attributeName="opacity" values="0;1" begin="0.95s" dur="0.35s" fill="freeze"/></tspan>
+    <tspan opacity="0">&#x1D468;<animate attributeName="opacity" values="0;1" begin="1.1s"  dur="0.35s" fill="freeze"/></tspan>
+    <tspan opacity="0">&#x1D475;<animate attributeName="opacity" values="0;1" begin="1.25s" dur="0.35s" fill="freeze"/></tspan>
+    <tspan opacity="0">&#x1D468;<animate attributeName="opacity" values="0;1" begin="1.4s"  dur="0.35s" fill="freeze"/></tspan>
+  </text>
+</svg>
