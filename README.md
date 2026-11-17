@@ -14,13 +14,13 @@
 
 ---
 
-## ⚡ TL;DR
+##  TL;DR
 
 ```python
 class RSreedhana:
     role        = "AI & Backend Developer"
     education   = "B.Tech CSE (AI & Data Science), Reva University (2024-2028), CGPA 9.2"
-    experience  =  BACKEND AI(AGENTIC) DEVELOPER @ Geoace Studio
+    experience  = "GenAI Product Engineer Intern @ Geoace Studio"
     wins        = ["Winner, INFINIX Data Challenge (CMRIT Bangalore, 2026)"]
     leadership  = ["Tech Lead, Google Developer Group", "Tech Core Member, Alverse"]
     superpower  = ["agentic AI", "LangChain + LangGraph", "RAG pipelines", "safe, explainable AI decisions"]
@@ -32,7 +32,7 @@ class RSreedhana:
 
 ---
 
-## 🧰 Tech Arsenal
+##  Tech Arsenal
 
 <div align="center">
 
@@ -60,62 +60,16 @@ class RSreedhana:
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### 💳 [payRescue](https://github.com/sree-dhana/payRescue): AI Payment Recovery System
+Some of my featured projects you can check out:
 
-> **Built to solve problems.** The model estimates recovery probability; deterministic rules pick the action, keeping every decision safe and explainable.
-
-```mermaid
-flowchart LR
-    A["💸 Failed payment<br/>Razorpay webhook<br/>(signature-verified)"] --> B["🤖 AI model<br/>predict recovery probability"]
-    B --> C{"⚖️ Deterministic<br/>policy layer"}
-    C -->|"probability ≥ 30%"| D["🔁 Retry"]
-    C -->|"insufficient funds"| E["🔗 Send payment link"]
-    C -->|"fraud signal"| F["🛑 Stop"]
-    C -->|"otherwise"| G["🙋 Escalate"]
-    D --> H[("🧾 Audit log<br/>SQLite")]
-    E --> H
-    F --> H
-    G --> H
-    H --> I["📊 Dashboard<br/>React · Recharts"]
-```
-
-- **FastAPI** backend with **Razorpay Test Mode** checkout and **signature-verified webhooks**
-- **SQLite** tracking, an **audit log**, and recovery-strategy analytics
-- **React + Vite + Tailwind + Recharts** frontend dashboard
-
-`FastAPI` `React` `Vite` `Tailwind` `Recharts` `SQLite` `Razorpay`
-
-<br/>
-
-### 💊 [Medicine Recognition & Advisory System](https://github.com/sree-dhana/healthcare_system)
-
-> Turns a photo of a prescription into structured data, dosage guidance, and reminders.
-
-```mermaid
-flowchart LR
-    A["📷 Prescription image"] --> B["🧹 OpenCV<br/>preprocessing"]
-    B --> C["🔤 Tesseract OCR"]
-    C --> D["🧠 spaCy<br/>medicine + dosage extraction"]
-    D --> E["🗂️ Structured data"]
-    E --> F["🤖 LLM via LangChain<br/>Gemini / Ollama<br/>dosage guidance"]
-    E --> G[("🍃 MongoDB<br/>prescription + user data")]
-    F --> H["⚙️ FastAPI backend<br/>Docker"]
-    G --> H
-    H --> I["⏰ Medicine reminders"]
-    H --> J["🩺 Doctor-patient<br/>interaction"]
-```
-
-- Extracts medicine names and dosage details from prescription images, turning **unstructured text into structured data**
-- **FastAPI + MongoDB** backend with reminder scheduling and a doctor-patient interaction module
-- Containerized with **Docker**
-
-`FastAPI` `MongoDB` `OpenCV` `Tesseract` `spaCy` `LangChain` `Docker`
+-  [**payRescue**](https://github.com/sree-dhana/payRescue): AI payment recovery system
+-  [**Medicine Recognition & Advisory System**](https://github.com/sree-dhana/healthcare_system): prescription OCR + LLM dosage guidance
 
 ---
 
-## 📈 Activity
+##  Activity
 
 <div align="center">
 
@@ -130,7 +84,7 @@ flowchart LR
 
 ---
 
-## 🐍 Contribution Snake
+## Contribution Snake
 
 <div align="center">
 
@@ -144,18 +98,18 @@ flowchart LR
 
 ---
 
-## 🎯 Currently
+##  Currently
 
 | | |
 |---|---|
-| 🔭 **Exploring** | Agentic AI with LangGraph: planning, tool use, multi-agent coordination |
-| 🛠️ **Hardening** | RAG and LLM apps for production: reliability, evaluation, deployment |
-| 📚 **Learning** | NLP with Transformers / BERT, TensorFlow and scikit-learn |
-| 💬 **Ask me about** | LangChain pipelines, FastAPI backends, OCR + LLM workflows, safe AI decision policies |
+|  **Exploring** | Agentic AI with LangGraph: planning, tool use, multi-agent coordination |
+|  **Hardening** | RAG and LLM apps for production: reliability, evaluation, deployment |
+|  **Learning** | NLP with Transformers / BERT, TensorFlow and scikit-learn |
+|  **Ask me about** | LangChain pipelines, FastAPI backends, OCR + LLM workflows, safe AI decision policies |
 
 ---
 
-## 🤝 Let's Build Something
+##  Let's Build Something
 
 <div align="center">
 
