@@ -32,55 +32,12 @@ class RSreedhana:
 
 ---
 
-##  Tech Arsenal
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=py,cpp,bash,linux,fastapi,nodejs,express,react,vite,tailwind&theme=dark" />
-<br/>
-<img src="https://skillicons.dev/icons?i=docker,mongodb,sqlite,gcp,githubactions,git,tensorflow,opencv&theme=dark" />
-
-<br/><br/>
-
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=2cc5e8)
-![RAG](https://img.shields.io/badge/RAG_Pipelines-203a43?style=for-the-badge)
-![Transformers](https://img.shields.io/badge/Transformers_%2F_BERT-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
-![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
-![Tesseract](https://img.shields.io/badge/Tesseract_OCR-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Earth Engine](https://img.shields.io/badge/Google_Earth_Engine-34A853?style=for-the-badge&logo=googleearthengine&logoColor=white)
-![Razorpay](https://img.shields.io/badge/Razorpay-0C2451?style=for-the-badge&logo=razorpay&logoColor=white)
-
-</div>
-
----
-
 ##  Featured Projects
 
 Some of my featured projects you can check out:
 
 -  [**payRescue**](https://github.com/sree-dhana/payRescue): AI payment recovery system
 -  [**Medicine Recognition & Advisory System**](https://github.com/sree-dhana/healthcare_system): prescription OCR + LLM dosage guidance
-
----
-
-##  Activity
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sree-dhana&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f2027&title_color=2cc5e8&icon_color=2cc5e8" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sree-dhana&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f2027&title_color=2cc5e8" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sree-dhana&theme=tokyonight&hide_border=true&background=0f2027&ring=2cc5e8&fire=2cc5e8&currStreakLabel=2cc5e8" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sree-dhana&bg_color=0f2027&color=2cc5e8&line=2cc5e8&point=ffffff&area=true&area_color=2cc5e8&hide_border=true" width="95%" />
-
-</div>
 
 ---
 
@@ -95,17 +52,6 @@ Some of my featured projects you can check out:
 </picture>
 
 </div>
-
----
-
-##  Currently
-
-| | |
-|---|---|
-|  **Exploring** | Agentic AI with LangGraph: planning, tool use, multi-agent coordination |
-|  **Hardening** | RAG and LLM apps for production: reliability, evaluation, deployment |
-|  **Learning** | NLP with Transformers / BERT, TensorFlow and scikit-learn |
-|  **Ask me about** | LangChain pipelines, FastAPI backends, OCR + LLM workflows, safe AI decision policies |
 
 ---
 
