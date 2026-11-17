@@ -4,12 +4,6 @@
 
 **AI & Backend Developer · Agentic AI · LLM Systems**
 
-![Hackathon](https://img.shields.io/badge/%F0%9F%8F%86%20WINNER-INFINIX%20DATA%20CHALLENGE%202026-f5b82e?style=for-the-badge&labelColor=0f2027)
-![Location](https://img.shields.io/badge/BASED%20IN-BANGALORE%2C%20INDIA-203a43?style=for-the-badge&labelColor=0f2027)
-![CGPA](https://img.shields.io/badge/CGPA-9.2-2c5364?style=for-the-badge&labelColor=0f2027)
-
-![Followers](https://img.shields.io/github/followers/sree-dhana?style=flat-square&color=203a43&logo=github)
-
 </div>
 
 ---
